@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDSIDDIQ07
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me mohdsiddiq0507@gmail.com,& +917661954300
 
